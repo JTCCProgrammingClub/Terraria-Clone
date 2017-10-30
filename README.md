@@ -1,4 +1,4 @@
 # The-Dragon-of-Chaos
-## A Terraria Clone
+**A Terraria Clone**
 
-**It'll be lit**
+*It'll be lit*
